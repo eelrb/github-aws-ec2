@@ -3,7 +3,6 @@ default = 1
 }
 
 variable "key_name" {
-default = "key"
 }
 
 variable "aws_region" {
